@@ -1,0 +1,6 @@
+[submodule "tdmpc2"]
+	path = tdmpc2
+	url = https://github.com/nicklashansen/tdmpc2.git
+[submodule "jepa"]
+	path = jepa
+	url = https://github.com/facebookresearch/jepa.git
